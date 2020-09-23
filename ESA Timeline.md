@@ -14,10 +14,14 @@ This is the task of the SC Chair and the steering committee.
 
 ### Assembly of PC Members
 
-Besides competence, an important aspect is diversity. There should be a good mix of junior and senior people,
-a good mix of topics, a good mix of male and female, and a reasonable diversity with respect to affiliations and nationality.
 In the last years, the PC for Track A had around 30 members (for around 250 submissions)
 and the PC for Track B had around 12 members (for around 50 submissions).
+There are at least three important aspects concerning the selection of PC members.
+First, PC members should of course be sufficiently *competent* and *reliable* for the job.
+Second, there are some strict rules on how often you can be on an ESA PC, see the [ESA Guidelines](http://esa-symposium.org/assets/guidelines.pdf).
+Third, the PC should be reasonably *diverse*. There should be a good mix of junior and senior people,
+a good mix of topics, a good mix of male and female, and a reasonable diversity with respect to affiliations and nationality.
+The selection is up to the PC Chairs, but feel free to ask the SC Chair whenever you have a question or you feel unsure.
 
 ### Call for Papers
 
